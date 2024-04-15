@@ -5,4 +5,4 @@ API de autenticação de login utilizando JAVA e SPRING SECURITY, o frontend con
 
 
 > [!NOTE]
-> créditos a @kipper.dev.
+> instagram: @dev.lucascidade
